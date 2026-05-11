@@ -1,0 +1,8 @@
+{
+  "options.sodiumoptionsmodcompat.general": "通用",
+  "options.sodiumoptionsmodcompat.etf.textures": "材质/纹理",
+  "options.sodiumoptionsmodcompat.emf.models": "模型",
+  "options.sodiumoptionsmodcompat.esf.sounds": "音效",
+  "options.sodiumoptionsmodcompat.etf.misc": "杂项",
+  "options.sodiumoptionsmodcompat.cullleaves.leaves": "树叶"
+}
